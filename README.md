@@ -1,1 +1,1 @@
-# Snake-and-Ladder---Red-Blue
+# Snake and Ladder Game
